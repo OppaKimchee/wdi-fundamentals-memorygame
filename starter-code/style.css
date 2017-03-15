@@ -51,3 +51,7 @@ nav a:hover{
 footer{
 	background-color: #808080;
 }
+img {
+	height: 200px;
+ 	width: 150px;
+}
